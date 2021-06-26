@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AsyncImageLoader",
+        "repositoryURL": "https://github.com/dartsyms/AsyncImageLoader.git",
+        "state": {
+          "branch": "main",
+          "revision": "797760ba29a5033c5cee6e5b576acce0fcc253f7",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
